@@ -18,12 +18,12 @@
 
 ### About me
 
-- 💼 SDE 1 at [Qure.ai](https://www.qure.ai/), Bangalore
-- 🧑‍💻 Previously: intern at Qure.ai (Mar - Jun 2026), developer intern at [Samsung R&D Institute Bangalore](https://research.samsung.com/sri-b) (May - Jul 2025)
-- 🎓 B.Tech in Computer Science and Engineering, IIT Indore
-- 🔭 Into backend, infrastructure and ML, and lately fixing bugs in open source projects
-- 🏆 Competitive programming on the side ([Codeforces](https://github.com/Debasishhh/codeforces-solutions), [CSES](https://github.com/Debasishhh/CSES-problems))
-- 📚 Off the keyboard: surfing the internet and reading novels
+- SDE 1 at [Qure.ai](https://www.qure.ai/), Bangalore
+- Previously: intern at Qure.ai (Mar - Jun 2026), developer intern at [Samsung R&D Institute Bangalore](https://research.samsung.com/sri-b) (May - Jul 2025)
+- B.Tech in Computer Science and Engineering, IIT Indore
+- Into backend, infrastructure and ML, and lately fixing bugs in open source projects
+- Competitive programming on the side ([Codeforces](https://github.com/Debasishhh/codeforces-solutions), [CSES](https://github.com/Debasishhh/CSES-problems))
+- Off the keyboard: playing table tennis and reading novels
 
 ### Tools I use
 
